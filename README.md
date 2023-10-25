@@ -28,6 +28,6 @@ Bye!
 </pre>
 
 # Usage
-Download the release and go in your terminal where you placed coffee_machine.jar and run:
+Download the release and go in your terminal where you placed rock-paper-scissors.jar and run:
 
 <pre>java -jar rock-paper-scissors.jar</pre>
